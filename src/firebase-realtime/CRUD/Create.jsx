@@ -65,7 +65,7 @@ const Create = () => {
             <input type='text' {...register('mobile')} className='form-control' placeholder='Mobile'></input>
           </div>
           <div className='mt-4'>
-            <button className='btn btn-success'>Submit</button>
+            <button className='btn btn-success w-100'>Submit</button>
           </div>
         </form>
       </div>
